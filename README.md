@@ -1,2 +1,7 @@
-# LaporanFPSistemDeteksiIntrusi
+# Laporan FP Sistem Deteksi Intrusi
+
+## English
+This repository is used to accommodate the results of the work and also reports from the Final Project given in the 2021 Intrusion Detection System course at the Sepuluh Nopember Institute of Technology. In preparing this report, the aim is to compare the TP Rate of classes in the NSL-KDD dataset such as Probe, DoS, normal, R2l and U2R using the Zscore and Log normalization methods, with the SVM classifier and also the InfoGainAttributeEval attribute selection using Weka software. From these results, it will be known the comparison of the TP Rate of Zscore and Log on the NSL-KDD dataset and which one is better between the two. To view the results of the report, please refer to the SDIDataMining.pdf report
+
+## Bahasa
 Repository ini digunakan untuk menampung hasil pengerjaan dan juga laporan dari Final Project yang diberikan pada mata kuliah Sistem Deteksi Intrusi tahun 2021 di Institut Teknologi Sepuluh Nopember. Dalam pembuatan laporan ini bertujuan untuk membandingkan TP Rate dari class di dataset NSL-KDD seperti Probe, DoS, normal, R2l dan U2R dengan menggunakan metode normalisasi Zscore dan Log, dengan classifier SVM dan juga attribute selection InfoGainAttributeEval menggunakan software Weka. Dari hasil tersebut maka akan diketahui perbandingan TP Rate dari Zscore dan Log pada dataset NSL-KDD dan mana yang lebih baik diantara keduanya. Untuk melihat hasil laporan bisa melihat ke laporanSDIDataMining.pdf
